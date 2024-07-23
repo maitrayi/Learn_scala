@@ -1,2 +1,2 @@
-# Learn_pytorch
-My daily pytorch learning
+# Learn_Scala
+My daily Scala learning
